@@ -1,0 +1,12 @@
+{
+  "name": "tuplas-enumerados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \"node dist/tuplas.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
